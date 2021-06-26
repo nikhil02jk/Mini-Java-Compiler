@@ -1,0 +1,8 @@
+x=y
+t1=5*5
+c=t1+5
+a=t2+c
+t2=5+5
+t3=t2
+t4=t3+x
+return b
